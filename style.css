@@ -1,7 +1,10 @@
 body{
     background: #CCCCCC;
 }
-
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
 #banner{
     width:100%;
 }
